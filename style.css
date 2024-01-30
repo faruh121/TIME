@@ -1,7 +1,7 @@
 #clock {
   font-size: 148px;
   text-align: center;
-  color: aliceblue;
+  color: #7cc0ff;
   margin-top: 200px;
   font-family: 'Dancing Script', cursive;
 }
@@ -20,7 +20,7 @@ body {
   overflow: hidden;
 }
 footer {
-  background-color: #f0f0f0;
+  background-color: #7cc0ff;
   padding: 20px;
   text-align: center;
 }
